@@ -34,7 +34,7 @@
 	/*background-color: rgba(0, 0, 0, 0.15);*/
 	background-color: #ffffff;
 	color: #3e64ff;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	box-shadow: -20px 0px 29px 0px rgba(0,0,0,0.73);
 	background-image: linear-gradient(to right,#D8D8D8,#ffffff);
 }
 
@@ -57,6 +57,8 @@
 		width: 100%;
 	}
 
+	
+
 	.sidebar img{
 		width: 70%;
 	}
@@ -68,6 +70,7 @@
 	.sidebar .sidebar__nav .sidebar__nav__link {
 		height: 100%;
 		padding: 0.75em;
+		box-shadow: -20px 29px 0px 0px rgba(0,0,0,0.73);
 	}
 
 	.sidebar .sidebar__nav i {
