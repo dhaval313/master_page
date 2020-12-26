@@ -4,6 +4,10 @@
 	transition: width 0.2s ease;
 }
 
+.sidebar img{
+	width: 30px;
+}
+
 .sidebar nav {
 	height: 100%;
 }
@@ -51,6 +55,10 @@
 	.sidebar {
 		bottom: 0;
 		width: 100%;
+	}
+
+	.sidebar img{
+		width: 70%;
 	}
 
 	.sidebar .sidebar__nav {
