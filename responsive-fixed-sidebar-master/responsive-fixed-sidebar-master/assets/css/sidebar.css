@@ -28,10 +28,8 @@
 
 .sidebar .sidebar__nav .sidebar__nav__link:hover {
 	/*background-color: rgba(0, 0, 0, 0.15);*/
-	background-color: #ffffff;
+	background-color: #E8E8E8;
 	color: #3e64ff;
-	box-shadow: -20px 0px 29px 0px rgba(0,0,0,0.73);
-	background-image: linear-gradient(to right,#D8D8D8,#ffffff);
 }
 
 .sidebar .sidebar__nav .sidebar__nav__text {
@@ -51,8 +49,6 @@
 	.sidebar {
 		bottom: 0;
 		width: 100%;
-		display:flex;
-		overflow-x:auto;
 	}
 
 	.sidebar .sidebar__nav {
