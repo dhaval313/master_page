@@ -84,9 +84,9 @@
 		flex-direction: column;
 	}
 
-	/*.sidebar .sidebar__nav li:last-child {
+	.sidebar .sidebar__nav li:last-child {
 		margin-top: auto;
-	}*/
+	}
 
 	.sidebar .sidebar__nav .sidebar__nav__link {
 		padding: 1em;
